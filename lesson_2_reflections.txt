@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git init establishes the folder as a Git repository so that it will start tracking commits. You need to do it to set up the framework to allow commits.
