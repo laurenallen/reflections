@@ -1,1 +1,2 @@
-When would you create a remote repository?
+When would you want to use a remote repository rather than keeping all your work local?
+If you're collaborating with someone else, or want to share a link to your work with someone.
