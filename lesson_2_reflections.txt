@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 Git init establishes the folder as a Git repository so that it will start tracking commits. You need to do it to set up the framework to allow commits.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is what is qeued up to be saved, whereas the working directory is what you're actually currently using, and the repository is what you have committed.
