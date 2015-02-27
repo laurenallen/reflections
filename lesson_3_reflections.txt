@@ -9,3 +9,6 @@ Forks are only used on github when you are cloning someone else’s repository a
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You are limiting the amount of changes you will need to account for when merging, or syncing the local master and origin master.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be harder without some sort of internet based version control (could also use google docs or dropbox) 
